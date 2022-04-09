@@ -152,3 +152,58 @@ input[type=text], input[type=email] {
 
 }
 
+.submit-button {
+    display: inline-block;
+    padding: 10px 15px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color:#f1dab8;
+    background-color:#04192c;
+    border: none;
+    border-radius: 13px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .submit-button:hover {background-color: #04192c}
+  
+  .submit-button:active {
+    background-color: #f1dab8;
+    box-shadow: 0 2px #666;
+    transform: translateY(4px);
+  }
+/* footer*/
+footer {
+    height: 150px;
+    background-color: #04192c;
+    
+
+}
+footer h2 {
+    text-align: center;
+    background-color: #04192c;
+}
+footer p {
+    font-family:Poppins, sans-serif ;
+    text-align: center;
+    padding: 3px;
+    background-color: #f1dab8;
+    color: #04192c;
+}
+
+.social-networks{
+    text-align: center;
+    background-color: #04192c;
+}
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #27298d;
+}
