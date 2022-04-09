@@ -77,14 +77,39 @@ body{
 
 /*About us*/
 
+#about{
+    background-color: #04192c;
+}
+#about h2 ,h3{
+    color: #f1dab8;
+}
+
 #list p{
     font-size: 2rem;
-    color: rgb(10, 114, 57);
+    color: #f1dab8;
 
 }
 
 #list li{
     font-size: 1.3rem;
-    color: rgb(20, 11, 51);
+    color: rgb(93, 77, 148);
 
 }
+
+/* about us table*/
+th, td {
+    padding: 15px;
+    text-align: left;
+    color: #f1dab8;
+  }
+  th, td {
+    border-bottom: 1px solid #ddd;
+  }
+  tr:hover {
+      background-color: rgb(175, 136, 197);
+    }
+
+    /*Sign up*/
+    
+    
+
