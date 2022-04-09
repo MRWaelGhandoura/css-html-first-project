@@ -81,35 +81,36 @@
 
         <!--Sign up-->
         <section>
-            <div class="signup">
+            <div class="signup" id="sign-up">
                 <form action="" class="form">
                   <h2 class="title">Sign up</h2>
-                  <p>Annual Club Membership 750kr Only!! </p>
-                  <p>With Two Free Fishing Cards</p>
+                  <h4 class="text-center">Annual Club Membership 750kr Only!! With Two Free Fishing Cards</h4>
             
                   <div class="Container">
-                    <input type="text" class="input" placeholder="Enter Your Name" required>
-                    <label for="" class="label">Name</label>
+                    <label for="name" class="label">Name</label>
+                    <input type="text" name="name" placeholder="Enter Your Name" required>
+                    
                   </div>
             
                   <div class="Container">
-                    <input type="text" class="input" placeholder="Your Guardian/Parents Name">
-                    <label for="" class="label">Parents/Guardian Name for under 18</label>
-                  </div>
+                    <label for="p.name" class="label">Parents/Guardian Name for under 18</label>
+                    <input type="text" name="p.name" placeholder="Your Guardian/Parents Name">
+                    </div>
             
                   <div class="Container">
-                    <input type="email" class="input" placeholder="Enter Your Email">
-                    <label for="" class="label">Email</label>
+                    <label for="email" class="label">Email</label>
+                    <input type="email" name="email" placeholder="Enter Your Email" required>
+                    
                   </div>
             
-                  <input type="submit" class="submitBtn" value="Submit">
+                  <input type="submit" class="submit-button" value="Submit">
                 </form>
               </div>
 
         </section>
     </main>
 
-    
+    <!--Footer-->
     <footer>
         Contact us
     </footer>

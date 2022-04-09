@@ -8,8 +8,9 @@ h3{
     font-size: 1.5rem;
 }
 
-h1, h2, h3, h4{
+h1, h2, h3,h4{
     color:#387593;
+
 }
 .text-center{
     text-align: center;
@@ -52,9 +53,20 @@ body{
 
 /*Navigation*/
 
+#logo{
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+    line-height: 75px;
+
+}
+
 #nav{
     font-size: 1.5rem;
     height: 40px;
+    line-height: 75px;
+    font-size: 110%;
+    letter-spacing: 4px
 }
 
 .nav-list-wrapper{
@@ -105,11 +117,38 @@ th, td {
   th, td {
     border-bottom: 1px solid #ddd;
   }
+
   tr:hover {
       background-color: rgb(175, 136, 197);
     }
 
     /*Sign up*/
+
+.signup{
+        background-color: #f1dab8;
+    }
+
+.title{
+        text-align: center;
+    }
     
+h4{
+        text-align: center;
+    }
+
+input[type=text], input[type=email] {
+        width: 100%;
+        padding: 15px;
+        margin: 5px 0 22px 0;
+        display: inline-block;
+        border: none;
+        background:#04192c;
+        text-align:left;
+      }
     
+.label{
+    text-align: center;
+    color: #387593;
+
+}
 
