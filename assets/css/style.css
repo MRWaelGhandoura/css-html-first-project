@@ -19,6 +19,12 @@ h1, h2, h3,h4{
 .text-left{
     text-align: left;
 }
+/*default settings*/
+* {
+    margin: 0;
+    padding: 0;
+    border: none; 
+ }
 /*CSS Structural*/
 body{
     padding: 0;
@@ -51,11 +57,32 @@ body{
     
 }
 
+/*Header*/
+
+#hero-text{
+    font-size: 130%;
+    font-family: Poppins, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    width: 400px;
+    height: 400px;
+    padding-top: 40px;
+    padding-left: 10px;
+    bottom: 10px;
+    right: 120px;
+    position: absolute;
+}
+
+/* re-color the h3 element*/
+#hero-text h3{
+    color: #7a8a21;
+}
+
 /*Navigation*/
 
 #logo{
     float: left;
-    font-size: 280%;
+    font-size: 100%;
     margin-left: 30px;
     line-height: 75px;
 
@@ -132,9 +159,7 @@ th, td {
         text-align: center;
     }
     
-h4{
-        text-align: center;
-    }
+
 
 input[type=text], input[type=email] {
         width: 100%;
@@ -151,11 +176,12 @@ input[type=text], input[type=email] {
     color: #387593;
 
 }
+/* submit button style taken from (www.w3schools.com)*/
 
 .submit-button {
     display: inline-block;
-    padding: 10px 15px;
-    font-size: 24px;
+    padding: 8px 10px;
+    font-size: 20px;
     cursor: pointer;
     text-align: center;
     text-decoration: none;
@@ -165,14 +191,18 @@ input[type=text], input[type=email] {
     border: none;
     border-radius: 13px;
     box-shadow: 0 9px #999;
+    margin: 0;
+    
   }
   
-  .submit-button:hover {background-color: #04192c}
+  .submit-button:hover {
+      background-color: #04192c
+    }
   
   .submit-button:active {
     background-color: #f1dab8;
     box-shadow: 0 2px #666;
-    transform: translateY(4px);
+    transform: translateY(2px);
   }
 /* footer*/
 footer {
@@ -191,6 +221,7 @@ footer p {
     padding: 3px;
     background-color: #f1dab8;
     color: #04192c;
+   
 }
 
 .social-networks{
