@@ -76,33 +76,16 @@ We continually tweak and adjust this template to help give you the best experien
 
 It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
 
-**How will this affect me?**
+# deployment
+1. go to github repository and click the settings cog
+![image](https://user-images.githubusercontent.com/99558735/162593426-eeb196ba-ac82-424f-82df-1686af66247a.png)
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+2. to click the pages link in the left menu
+![image](https://user-images.githubusercontent.com/99558735/162593495-f1ba4b93-33a5-4618-8ded-1e2b78d9fd22.png)
+3. in the sources section click the non drop menu and select main
+![image](https://user-images.githubusercontent.com/99558735/162593526-c2a42087-0da7-4a0d-8400-97a07233c67b.png)
+4. click the save button and a blue box will show up
+![image](https://user-images.githubusercontent.com/99558735/162593568-d56eeb3e-890f-403a-adc1-5f4626a0d46f.png)
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
 
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
-
----
-
-Happy coding!
