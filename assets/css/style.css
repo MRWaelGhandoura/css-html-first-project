@@ -82,7 +82,7 @@ body{
 
 #logo{
     float: left;
-    font-size: 100%;
+    font-size: 200%;
     margin-left: 30px;
     line-height: 75px;
 
@@ -132,6 +132,7 @@ body{
 #list li{
     font-size: 1.3rem;
     color: rgb(93, 77, 148);
+    list-style-type: circle;
 
 }
 
@@ -168,7 +169,7 @@ input[type=text], input[type=email] {
         display: inline-block;
         border: none;
         background:#04192c;
-        text-align:left;
+        text-align:center;
       }
     
 .label{
