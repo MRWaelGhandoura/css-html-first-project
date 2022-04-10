@@ -246,3 +246,9 @@ footer p {
     padding: 5%;
     color: #27298d;
 }
+
+/* wrapper */
+.wrapper{
+    max-width: 1200px;
+    margin: 0 auto;
+}
