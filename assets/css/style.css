@@ -244,33 +244,30 @@ th, td {
       background-color: rgb(175, 136, 197);
     }
 
-    /*Sign up*/
-
-.signup{
-        background-color: #f1dab8;
-    }
-
-.title{
-        text-align: center;
-    }
-    
-
-
+/* sign up form */
 input[type=text], input[type=email] {
-        width: 100%;
-        padding: 15px;
-        margin: 5px 0 22px 0;
-        display: inline-block;
-        border: none;
-        background:#04192c;
-        text-align:center;
-      }
-    
-.label{
-    text-align: center;
-    color: #387593;
-
+    width: calc(100% - 30px);
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #04192c;
 }
+.wrapper.label{
+padding-bottom: 40px;
+}
+.label {
+text-align: center;
+color: #387593;
+}
+form.label {
+text-align: left;
+background: white;
+border: 1px solid #04192c;
+margin: 2.4rem auto 0;
+padding: 1.2rem;
+}
+
 /* submit button style taken from (www.w3schools.com)*/
 
 .submit-button {
@@ -375,7 +372,13 @@ footer p {
 }
 
 /* portrait tablets */
-@media screen and (max-width: 768px
-…..
+@media screen and (max-width: 768px) {
 
+}
+/* horizontal tablets */
+@media screen and (max-width: 1024px) {
+    #about h3{
+        text-align: left;
+        margin-top: 1.2rem;
+    }
 }
