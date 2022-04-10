@@ -58,20 +58,27 @@ body{
 }
 
 /*Header*/
+#header{
 
-#hero-text{
-    font-size: 130%;
-    font-family: Poppins, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    width: 400px;
-    height: 400px;
-    padding-top: 40px;
-    padding-left: 10px;
-    bottom: 10px;
-    right: 120px;
-    position: absolute;
-}
+    /* Image URL(https://www.pexels.com/photo/three-people-on-a-wooden-fishing-docks-988622/) */
+    background: url(/assets/images/pexels-olof-nyman-988622.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    background-position: 10% 28%;
+ }
+ #hero-text{
+     position: absolute;
+     top: 150px;
+     left: 30%;
+     transform: translate(-30%, -30%);
+     font-family: Poppins, sans-serif;
+     text-transform: uppercase;
+     letter-spacing: 4px;
+     font-size: 3rem;
+     white-space: no-wrap;
+ }
+ 
 
 /* re-color the h3 element*/
 #hero-text h3{
