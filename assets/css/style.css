@@ -31,7 +31,7 @@ body{
 header{
 
     /* Image URL(https://www.pexels.com/photo/three-people-on-a-wooden-fishing-docks-988622/) */
-    background: url(../favicon/android-chrome-192x192.png) url(../favicon/android-chrome-512x512.png);
+    background: url(../images/pexels-olof-nyman-988622.jpg);
     background-attachment: fixed;
     background-size: cover;
     height: 100vh;
