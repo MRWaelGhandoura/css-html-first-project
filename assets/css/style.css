@@ -366,17 +366,22 @@ footer li a:hover i{
         width: 100%;
         max-width: 500px;
     }
-    
-}
-
-/* portrait tablets */
-@media screen and (max-width: 768px) {
-
-}
-/* horizontal tablets */
-@media screen and (max-width: 1024px) {
     #about h3{
         text-align: left;
         margin-top: 1.2rem;
+    }
+}
+
+
+/* phones */
+@media screen and (max-width: 444px) {
+    #hero-text{
+
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+        font-size: inherit;
+        width: 70%;
     }
 }
