@@ -385,3 +385,15 @@ footer li a:hover i{
         width: 70%;
     }
 }
+
+@media screen and (max-width: 300px) {
+    #hero-text{
+
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+        font-size: inherit;
+        width: 70%;
+    }
+}
