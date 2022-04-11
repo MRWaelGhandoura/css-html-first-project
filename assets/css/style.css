@@ -19,12 +19,7 @@ h1, h2, h3,h4{
 .text-left{
     text-align: left;
 }
-/*default settings*/
-* {
-    margin: 0;
-    padding: 0;
-    border: none; 
- }
+
 /*CSS Structural*/
 body{
     padding: 0;
@@ -33,7 +28,7 @@ body{
     font-size: 1.3rem;
 }
 /*Header*/
-#header{
+header{
 
     /* Image URL(https://www.pexels.com/photo/three-people-on-a-wooden-fishing-docks-988622/) */
     background: url(/assets/images/pexels-olof-nyman-988622.jpg);
@@ -50,14 +45,13 @@ body{
      font-family: Poppins, sans-serif;
      text-transform: uppercase;
      letter-spacing: 4px;
+     
      white-space: no-wrap;
  }
- 
+ #hero-text h3{
+     color:rgb(8, 56, 42);
 
-/* re-color the h3 element*/
-#hero-text h3{
-    color: #7a8a21;
-}
+ }
 
 /* navigation adopted from https://codepen.io/designify-me/pen/ZeLPee */
 @import url('https://fonts.googleapis.com/css?family=Droid+Sans');
@@ -250,7 +244,7 @@ input[type=text], input[type=email] {
     margin: 5px 0 22px 0;
     display: inline-block;
     border: none;
-    background: #04192c;
+    background: #f1dab8;
 }
 .wrapper.label{
 padding-bottom: 40px;
@@ -258,6 +252,7 @@ padding-bottom: 40px;
 .label {
 text-align: center;
 color: #387593;
+
 }
 form.label {
 text-align: left;
