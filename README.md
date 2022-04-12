@@ -149,6 +149,8 @@ Adding a feature of loaning fishing gears before they attempt to go to the trip 
 
 
 ### Validation Testing
+
+
 The code is valid and follows proper indentation. I tested the code on these two sites
 
 ![image](https://user-images.githubusercontent.com/99558735/162940741-3a820dab-b5c0-4819-be41-fcfb11b6656f.png)
@@ -159,11 +161,17 @@ The code is valid and follows proper indentation. I tested the code on these two
 - [HTML Validator](https://validator.w3.org/)
 
 ![image](https://user-images.githubusercontent.com/99558735/163047826-c8b5991a-3bf9-433c-910a-651b3250b208.png)
+
+
 **Note**
+
 This code piece has been taken from :https://codepen.io/designify-me/pen/ZeLPee
 
+
+
 ### Cross Browser and Cross Device Testing
-Create a table that lists out what devices, browsers, and operating system you tested your application on and a brief description of why you chose the mixture you did. The point is to prove that you looked at the site across various browsers, operating systems, and viewport breakpoints.
+
+
 
 | TOOL / Device                 | BROWSER     | OS         | SCREEN WIDTH  |
 |-------------------------------|-------------|------------|---------------|
@@ -247,12 +255,15 @@ Create a table that lists out what devices, browsers, and operating system you t
 
 
 ### Outstanding Defects
-It's ok to not resolve all the defects you found. If you know of something that isn't quite right, list it out and explain why you chose not to resolve it.
+
+![image](https://user-images.githubusercontent.com/99558735/163056660-bb93606a-1946-44aa-afe8-93d2c7eef987.png)
+
+ This code was adapted from :https://codepen.io/designify-me/pen/ZeLPee
+
+
 
 ## Accessibility
 
-Accessibility testing is aimed to make sure that those with visual or physical disabilities can still browse your website. Some users have had strokes or accidents that make it difficult to use a mouse so they use keyboard keys to tab through sites. Others use screen readers that rely on HTML tags to help the user navigate quickly through the site to find information they want, others have color blindness or contrast issues. It's the law to provide services 
-Here's a [site](https://www.w3.org/WAI/fundamentals/accessibility-intro/#:~:text=Accessibility%20is%20Important%20for%20Individuals%2C%20Businesses%2C%20Society,-The%20Web%20is&text=That%20is%2C%20the%20accessibility%20barriers,older%20people) where you can learn more about accessibility and the internet.
 
 ### Lighthouse Audits
 
@@ -260,7 +271,8 @@ Here's a [site](https://www.w3.org/WAI/fundamentals/accessibility-intro/#:~:text
 
 
 ### Keyboard Navigation
-Another way to accessibility test you site is to try to click on the browser and see what happens if you use the tab, arrow and enter keys. Does it work well or does the user get stuck?
+
+
 ![image](https://user-images.githubusercontent.com/99558735/163038334-06b02eb3-c38f-4041-8bb5-a96c65b69dcd.png)
 
 ![image](https://user-images.githubusercontent.com/99558735/163038492-66505bce-2c13-4f1a-83d0-6ca4906a6504.png)
