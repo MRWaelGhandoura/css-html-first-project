@@ -382,7 +382,7 @@ footer li a:hover i{
     top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
-        font-size: inherit;
+        font-size: 0.8rem;;
         width: 70%;
     }
 }
