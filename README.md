@@ -127,15 +127,16 @@ I used this image because it shows different ages of people that are fishing and
 
 ### Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so and how they tie into  your user stories.
 
-#### Implemented Features
+This site is simply made to navigate easily between each section, it contains navigation bar with the logo of the clubs name on the left and three icons on the right that are :
 
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+1- About Us section which allows the user to get information about the club and the activities that they do plus a table with date, time and ages.
 
-It's easiest to break this section down into the header, footer, and each page/layer of your website. Call out any differences for mobile vs desktop presentations, include a screenshot of the implemented feature.
+2- Sign Up section that allows the user to get information about the club price and to sign up to join the club.
 
-Don't forget your 404 error page.
+3- Contact Us section which allows the user to get information about the clubs street address , email address and telephone number. In plus three social media icons that directs the user to them in a new browser. 
+
+
 
 #### Future Features
 
