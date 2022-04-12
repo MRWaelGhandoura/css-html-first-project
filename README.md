@@ -1,12 +1,13 @@
 # SUNDSVALL FISHING CLUB
+
 ![image](https://user-images.githubusercontent.com/99558735/162912877-1af0b088-5b02-43ec-a7dd-56a9d2d5973f.png)
 
-link to the project https://mrwaelghandoura.github.io/css-html-first-project/
+Link to the project: https://mrwaelghandoura.github.io/css-html-first-project/
 
-The Sundsvall fishing club website is a page for beginners and professional fishing lovers that are looking for adventures and tours all around Sweden.
+**The Sundsvall fishing club website is a page for beginners and professional fishing lovers that are looking for adventures and tours all around Sweden.**
 
 ## Author
-Wael Ghandoura
+**Wael Ghandoura**
 
 ## Project Overview
 - Include a picture of site that shows it in responsive states and links to deployed code: http://ami.responsivedesign.is/
@@ -29,7 +30,7 @@ Wael Ghandoura
 
  * On small devices such as mobile phones ,a flex button is added to navigate the user easily to each section.
 
-#### The header
+#### The header:
 
 * It shows the name of the club with the combination of blue and the orange from the sunset image.
 
@@ -40,7 +41,7 @@ Wael Ghandoura
 ![image](https://user-images.githubusercontent.com/99558735/162927775-fa19c92d-b69e-441c-bd7b-d4551c4c3cd4.png)
 
 
-#### The About Us Section
+#### The About Us Section:
 
 ![image](https://user-images.githubusercontent.com/99558735/162929608-35ac6ce1-3e6d-45ec-a0ee-1ba40754a0ab.png)
 
@@ -50,7 +51,7 @@ Wael Ghandoura
 
 * It clearly shows that the site targets almost all ages in the meetings.
 
-#### Sign Up Form
+#### Sign Up Form:
 
 * The sign up section has a form to collect details from all the people that are willing to join the club.
 * It also collects the name and email address.
@@ -61,7 +62,7 @@ Wael Ghandoura
 ![image](https://user-images.githubusercontent.com/99558735/162932029-632d527f-cbe0-4ed8-b7c4-54c996de3297.png)
 
 
-#### The Contact Us Section
+#### The Contact Us Section:
 * The contact us section allows the users to contact the clubs phone number, email address and street address location.
 
 ![image](https://user-images.githubusercontent.com/99558735/162932176-1228d71f-a740-4b3a-90fa-f6188fc4879f.png)
@@ -72,7 +73,7 @@ Wael Ghandoura
 
 
 
-## Table of Contents
+## Table of Contents:
 Generate after readme is complete for UX and below
 
 ## UX
@@ -92,12 +93,23 @@ You may want to re-watch the videos about the [5 planes of UX development ](http
 
 #### Typography
 
-- discuss font size, font types for headers vs buttons vs general text and how it ties into users' emotions or target audience.
-- include screenshots of fonts used and links to the appropriate website ex) https://fonts.google.com/specimen/Raleway
+- The combination of the fonts Roboto, Poppins and Droid sans is used throughout the website with Sans Serif as the fallback font in case of import failure.
+![image](https://user-images.githubusercontent.com/99558735/162944401-2b58280f-0e44-4eb8-9783-8a716aafe0b5.png)
+
+![image](https://user-images.githubusercontent.com/99558735/162943727-2b8b94bc-5b3a-4361-8213-b339dcc80fd6.png)
+![image](https://user-images.githubusercontent.com/99558735/162943829-ffa35630-9af2-4ddc-90bf-021118d4543a.png)
+
+- link to Roboto: https://fonts.google.com/specimen/Roboto
+- link to Poppins: https://fonts.google.com/specimen/Poppins?query=poppins
+- Link to Droid sans: https://fonts.adobe.com/fonts/droid-sans
 
 #### Images
 
-Explain why you used certain icons and images on your site
+Image taken from pexels.com, Link to the image :https://www.pexels.com/photo/three-people-on-a-wooden-fishing-docks-988622/
+
+![image](https://user-images.githubusercontent.com/99558735/162945468-41111cad-bb45-4101-a65c-58f619fce2d3.png)
+
+I used this image because it shows different ages of people that are fishing and that is the aim of the site is to target all ages.
 
 #### Animations and Transitions
 
@@ -136,9 +148,13 @@ In this section, you need to convince the assessor that you have conducted enoug
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 ### Validation Testing
-You should try to ensure you code is valid and follows proper indentation.  In this section you should write up any websites you used to validate your code. As your projects becomes more complex these tools may change.
+The code is valid and follows proper indentation. I tested the code on these two sites
 
-- [CSS Validator](https://jigsaw.w3.org/css-validator/) Note, any error associated with root: color variables were ignored.
+![image](https://user-images.githubusercontent.com/99558735/162940741-3a820dab-b5c0-4819-be41-fcfb11b6656f.png)
+
+- [CSS Validator](https://jigsaw.w3.org/css-validator/) 
+ 
+ 
 - [HTML Validator](https://validator.w3.org/)
 
 ### Cross Browser and Cross Device Testing
