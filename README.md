@@ -221,18 +221,27 @@ Create a table that lists out what devices, browsers, and operating system you t
 
 ### Defects of Note
 
+
+
 1- I had problem with site.webmanifest
+
 ![image](https://user-images.githubusercontent.com/99558735/163054423-d85ec936-aac4-48c8-b51a-a310a4cda860.png)
 
-  By restating the pc the problem was solved after trying to empty cache and hard reload.
+ By restating the pc the problem was solved after trying to empty cache and hard reload.
   
-2- Navigation for small devices was not compatible 
+  
+2- Navigation for small devices was not compatible
+
 ![image](https://user-images.githubusercontent.com/99558735/163054862-a22a8d71-a38a-4897-bae6-c874810b78b2.png)
 
-by adding the right media queries it was fixed.
+ By adding the right media queries it was fixed.
+
 
 3- Sign up form was dark and hard to notice
- By working on these sites that helped me very much i was able to find a match :https://rgbacolorpicker.com/rgba-to-hex 
+
+ By working on these sites that helped me very much i was able to find a match :
+ 
+ https://rgbacolorpicker.com/rgba-to-hex 
  https://coolors.co/e0d6d3-f1cba6-ead5c4-010206-031627
 
 
