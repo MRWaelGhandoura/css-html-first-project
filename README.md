@@ -88,8 +88,11 @@ You may want to re-watch the videos about the [5 planes of UX development ](http
 
 #### Colors
 
-- Discuss your color pallet choices and how it ties into users' emotions or target audience.
-- include a screenshot of your pallet using a tool like coolors.co
+- The main colours used in the website are a easy on the eyes of the users .
+- The combination of colors are used from a site called colors.co and that the link of the combination that i used https://coolors.co/e0d6d3-f1cba6-ead5c4-010206-031627
+- The colors look like : 
+![image](https://user-images.githubusercontent.com/99558735/163004474-5e9d9889-7b39-4d35-9553-dbfa3d1b56a6.png)
+
 
 #### Typography
 
