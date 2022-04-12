@@ -10,9 +10,10 @@ Wael Ghandoura
 
 ## Project Overview
 - Include a picture of site that shows it in responsive states and links to deployed code: http://ami.responsivedesign.is/
-- One or two paragraphs providing an overview of your project.
+- The website users will be able to find all the information they need about fishing tours, prices, seasonal tournaments and meetings.
+- The website targets all people that are willing to learn fishing and pro anglers that are looking for a challenge.
 - Write this as a sales pitch or commercial to entice users to interact with your site or how you want investors to purchase your website.
-- Include a link to your deployed website
+- Link to the website https://mrwaelghandoura.github.io/css-html-first-project/
 
 ## Table of Contents
 Generate after readme is complete for UX and below
