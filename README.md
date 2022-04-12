@@ -13,7 +13,33 @@ Wael Ghandoura
 - The website users will be able to find all the information they need about fishing tours, prices, seasonal tournaments and meetings.
 - The website targets all people that are willing to learn fishing and pro anglers that are looking for a challenge.
 - Write this as a sales pitch or commercial to entice users to interact with your site or how you want investors to purchase your website.
-- Link to the website https://mrwaelghandoura.github.io/css-html-first-project/
+- Link to the website: https://mrwaelghandoura.github.io/css-html-first-project/
+
+## Features
+
+#### Navigation:
+
+![image](https://user-images.githubusercontent.com/99558735/162928470-aa047d73-439d-4a6d-8247-8692178de988.png)
+
+ * At the top of the page on the left corner we have the logo of the name of the club which links us to the top of the page.
+ * On the right side we have: About Us , Sign up and Contact which links to each section by its name.
+
+![image](https://user-images.githubusercontent.com/99558735/162925896-d9306080-3dd1-40df-81fc-e461a8eccedc.png)
+![image](https://user-images.githubusercontent.com/99558735/162928921-c136fd8e-948f-4ba6-aad5-568f297799b8.png)
+
+ * On small devices such as mobile phones ,a flex button is added to navigate the user easily to each section.
+
+#### The header
+
+* It shows the name of the club with the combination of blue and the orange from the sunset image.
+
+![image](https://user-images.githubusercontent.com/99558735/162927642-9fa32de2-1fa8-4449-81e8-bb228f1863f3.png)
+
+* The picture shows three people with age difference who are fishing, which allow the user to know we are targeting all ages within our activities.
+
+![image](https://user-images.githubusercontent.com/99558735/162927775-fa19c92d-b69e-441c-bd7b-d4551c4c3cd4.png)
+
+
 
 ## Table of Contents
 Generate after readme is complete for UX and below
