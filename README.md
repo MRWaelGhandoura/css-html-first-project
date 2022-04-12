@@ -78,15 +78,10 @@ Link to the project: https://mrwaelghandoura.github.io/css-html-first-project/
 ## Table of Contents:
 Generate after readme is complete for UX and below
 
-## UX
-
-### Project Goals
-Use this section to provide insight into your UX process, focusing on who this website is for, calling out demographics, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Design Choices
-Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.
+This site targets all different ages that are in love with fishing and looking for adventures, soo i built a site with attractive images, easy access for all ages and provide show the activities the club does with the prices they offer .
 
-You may want to re-watch the videos about the [5 planes of UX development ](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/) when writing up this section
 
 #### Colors
 
@@ -141,9 +136,10 @@ Don't forget your 404 error page.
 
 #### Future Features
 
-Use this section to discuss plans for additional features to be implemented in the future:
+**In the future i will add a lot of features:**
+like booking a fishing guides with a schedule table shown all the date, time and ages that can join.
+Adding a feature of loaning fishing gears before they attempt to go to the trip so the users enjoy their trip with no stress of broken gear or unsutable equipment. 
 
-If you end up not developing some features you hoped to implement, you can include those in this section.
 
 
 ## Testing
