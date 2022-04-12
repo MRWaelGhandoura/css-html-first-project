@@ -76,7 +76,6 @@ Link to the project: https://mrwaelghandoura.github.io/css-html-first-project/
 
 
 ## Table of Contents:
-Generate after readme is complete for UX and below
 
 
 ### Design Choices
@@ -246,6 +245,19 @@ Another way to accessibility test you site is to try to click on the browser and
 ![image](https://user-images.githubusercontent.com/99558735/163038583-228b28d0-77ed-4997-aebe-fb28936598da.png)
 
 ![image](https://user-images.githubusercontent.com/99558735/163038716-47b47126-aa43-45f9-8a79-a9b03fd66304.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163048906-f9897844-3d24-4b12-a89d-82d6f7700bbe.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163048955-be490579-b2a6-442f-887b-687873c00786.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163049030-79de5cb2-001b-476c-aaa9-c949da6505f4.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163049086-bc5462bb-9ee0-4ff8-a81d-55611b53971b.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163049145-10a9a6a2-1a1e-4cda-af52-4ce4572103d9.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163049194-21a9232a-4c06-4bc0-87ff-ebc912fec1d8.png)
+
 
 
 
