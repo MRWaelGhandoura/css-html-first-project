@@ -145,6 +145,22 @@ nav {
 @media screen and (max-width: 550px) {
 
 
+    a.show-mobile {
+        text-decoration: none;
+        color: #595959;
+    }
+    .toggle.logoLink {
+        color: #595959;
+        font-size: 24px;
+        text-align: left;
+        padding: 0 1.2rem;
+        display: flex;
+        justify-content: space-between;
+        width: calc(100% - 2.4rem);
+    }
+    #logo.hide-mobile {
+        display: none;
+    }
     #checkbox,
     .toggle {
         clear: both;
@@ -165,13 +181,13 @@ nav {
         background: #cecece;
     }
 
-    #checkbox1:checked+label .first li {
+    #checkbox1:checked ~ul.first li {
         opacity: 1;
         visibility: visible;
         transition: all .7s linear;
     }
 
-    #checkbox1:checked+label .first {
+    #checkbox1:checked ~ul.first {
         height: 200px;
     }
 
@@ -200,6 +216,7 @@ nav {
         align-content: center;
     }
 }
+
 
 
 /*About us*/
