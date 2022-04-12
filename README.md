@@ -238,6 +238,8 @@ Here's a [site](https://www.w3.org/WAI/fundamentals/accessibility-intro/#:~:text
 
 ### Lighthouse Audits
 
+![image](https://user-images.githubusercontent.com/99558735/163046734-e02c2f3d-29e3-4b2f-b4c9-14256c82153b.png)
+
 
 ### Keyboard Navigation
 Another way to accessibility test you site is to try to click on the browser and see what happens if you use the tab, arrow and enter keys. Does it work well or does the user get stuck?
