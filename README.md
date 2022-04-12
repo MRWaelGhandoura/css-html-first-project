@@ -186,8 +186,6 @@ Create a table that lists out what devices, browsers, and operating system you t
 
 ### Manual Testing
 
-For any scenarios that have not been automated, test the user stories/features manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios in markdown such as:
-
 
 
 **Manual Testing For Contact Form**
@@ -239,11 +237,18 @@ Accessibility testing is aimed to make sure that those with visual or physical d
 Here's a [site](https://www.w3.org/WAI/fundamentals/accessibility-intro/#:~:text=Accessibility%20is%20Important%20for%20Individuals%2C%20Businesses%2C%20Society,-The%20Web%20is&text=That%20is%2C%20the%20accessibility%20barriers,older%20people) where you can learn more about accessibility and the internet.
 
 ### Lighthouse Audits
-You should run your deployed website pages through lighthouse's audit to check performance, accessibility, best practices and SEO scores. You should aim to get 85 or higher score. 
-https://web.dev/measure/  If you have lower scores, read the report and follow the links to address the flagged issues. You can run this tool from Chrome Dev Tools too against your local machine, but the performance will the worst (I personally ignore my performance results unless it's deployed code. I hope for > 60 on that mark, but > 85 on the other 3)
+
 
 ### Keyboard Navigation
 Another way to accessibility test you site is to try to click on the browser and see what happens if you use the tab, arrow and enter keys. Does it work well or does the user get stuck?
+![image](https://user-images.githubusercontent.com/99558735/163038334-06b02eb3-c38f-4041-8bb5-a96c65b69dcd.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163038492-66505bce-2c13-4f1a-83d0-6ca4906a6504.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163038583-228b28d0-77ed-4997-aebe-fb28936598da.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163038716-47b47126-aa43-45f9-8a79-a9b03fd66304.png)
+
 
 
 ## Deployment
