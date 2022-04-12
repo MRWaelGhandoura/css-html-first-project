@@ -280,7 +280,7 @@ Another way to accessibility test you site is to try to click on the browser and
 
 ![image](https://user-images.githubusercontent.com/99558735/163050322-d5a67af5-9cd2-42ea-b6c2-fcf2eb924a12.png)
 
-5- When a check green icon appears then your page is hosted
+5- When a green check icon appears then your page is hosted
 
 ![image](https://user-images.githubusercontent.com/99558735/163050119-077dd2f1-7d19-4d2e-8dc2-ef1e99c46514.png)
 
