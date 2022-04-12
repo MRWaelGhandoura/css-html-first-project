@@ -15,7 +15,6 @@ Link to the project: https://mrwaelghandoura.github.io/css-html-first-project/
 
 - The website users will be able to find all the information they need about fishing tours, prices, seasonal tournaments and meetings.
 - The website targets all people that are willing to learn fishing and pro anglers that are looking for a challenge.
-- Write this as a sales pitch or commercial to entice users to interact with your site or how you want investors to purchase your website.
 - Link to the website: https://mrwaelghandoura.github.io/css-html-first-project/
 
 ## Features
@@ -28,6 +27,7 @@ Link to the project: https://mrwaelghandoura.github.io/css-html-first-project/
  * On the right side we have: About Us , Sign up and Contact which links to each section by its name.
 
 ![image](https://user-images.githubusercontent.com/99558735/162925896-d9306080-3dd1-40df-81fc-e461a8eccedc.png)
+
 ![image](https://user-images.githubusercontent.com/99558735/162928921-c136fd8e-948f-4ba6-aad5-568f297799b8.png)
 
  * On small devices such as mobile phones ,a flex button is added to navigate the user easily to each section.
@@ -341,8 +341,8 @@ This code piece has been taken from :https://codepen.io/designify-me/pen/ZeLPee
 Image was downloaded from: https://www.pexels.com/photo/three-people-on-a-wooden-fishing-docks-988622/
 
 ### Acknowledgments
+ * I would like to thank my family for thier valued time and support during the development of the site.
+ * I would like to thank my mentor Malia for her guidance, valuable information and great mentoring throughout the process.
+ * I would like to thank codeinstitute, slack community and student for all their support.  
 
-This is the section where you refer to code examples, mentors, blogs, stack overflow answers and videos that helped you accomplish your end project. Even if it's an idea that you updated you should note the site and why it was important to your completed project.
-
-If you used a CodeInstitute Example project as a starting point. Make note of that here.
 
