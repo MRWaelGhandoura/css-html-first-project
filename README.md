@@ -181,38 +181,35 @@ Create a table that lists out what devices, browsers, and operating system you t
 
 For any scenarios that have not been automated, test the user stories/features manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios in markdown such as:
 
-**Manual Testing For Contact Form**
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
 
-Or you can use mardown check boxes and write them up per feature:
 
 **Manual Testing For Contact Form**
-- [x] try to submit 
+
 - [x] Try to submit the empty form and verify that an error message about the required fields appears
+![image](https://user-images.githubusercontent.com/99558735/163025928-52013e13-8b41-4a2f-bc94-3aa268269bc2.png)
+
 - [x] Try to submit the form with an invalid email address and verify that a relevant error message appears
+![image](https://user-images.githubusercontent.com/99558735/163026009-4c04c68c-5ea0-410c-a8f3-5046229e2fdc.png)
+
 - [x] Try to submit the form with all inputs valid and verify that a success message appears.
+![image](https://user-images.githubusercontent.com/99558735/163026675-0066f839-585c-496b-84c2-ca142c41f9c0.png)
+
 - [x] no console errors
 - [x] submit goes to code institute data dump page in new tab
+ ![image](https://user-images.githubusercontent.com/99558735/163025714-b466afef-c2ee-4579-80ef-7f83b1c27601.png)
+
+ 
 - [x] looks good on mobile (one column)
+![image](https://user-images.githubusercontent.com/99558735/163026880-b311b22f-8298-4ee4-80b3-824513298c0b.png)
+
 - [x] looks good on tablet (two columns)
+![image](https://user-images.githubusercontent.com/99558735/163026961-599d828a-0095-4d1d-9e00-3c185656eb73.png)
+
 - [x] looks good on desktop (two columns but not SUPER HUGE)
+![image](https://user-images.githubusercontent.com/99558735/163027218-730f4d86-3647-4308-baf4-6691d4f04000.png)
 
-Or you can use a spreadsheet
-    
-Here is a [Manual Testing Template](https://docs.google.com/spreadsheets/d/1vc1IVL-ydQwWeWMqnk_GRox6HE6qxDLpchGse8Crayo/edit#gid=296578096) that you can use as a starting point to keep track of your testing efforts. Make a copy of it in your own account and update as needed to reflect the browsers you are testing and features.  
 
-It's ok to spot check specific functionality across devices and browsers but each page should be viewed as a whole for each device/browser combo at least once.
 
-A quick way to check if items are exceeding the screen width of a project is to run this javascript in the console for various screen emulations:
-
-```
-var docWidth = document.documentElement.offsetWidth;
-[].forEach.call(document.querySelectorAll('*'),function(el){if(el.offsetWidth > docWidth){console.log(el);}});
-```
 
 ### Defect Tracking
 
