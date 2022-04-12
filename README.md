@@ -1,7 +1,7 @@
 # SUNDSVALL FISHING CLUB
-*replace the **PROJECT NAME** header with your project's name*
-- Screenshot of logo/navigation of mobile deployed site
-- Include a link to deployed project with one line explanation of project
+![image](https://user-images.githubusercontent.com/99558735/162912877-1af0b088-5b02-43ec-a7dd-56a9d2d5973f.png)
+
+The Sundsvall fishing club website is a page for beginners and professional fishing lovers that are looking for adventures and tours all around Sweden.
 
 ## Author
 Wael Ghandoura
