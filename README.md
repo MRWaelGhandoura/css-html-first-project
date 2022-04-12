@@ -10,7 +10,9 @@ Link to the project: https://mrwaelghandoura.github.io/css-html-first-project/
 **Wael Ghandoura**
 
 ## Project Overview
-- Include a picture of site that shows it in responsive states and links to deployed code: http://ami.responsivedesign.is/
+- Responsive states and linked to deployed code: http://ami.responsivedesign.is/
+![image](https://user-images.githubusercontent.com/99558735/163027766-768d9661-5532-47f4-811b-84ce4b526122.png)
+
 - The website users will be able to find all the information they need about fishing tours, prices, seasonal tournaments and meetings.
 - The website targets all people that are willing to learn fishing and pro anglers that are looking for a challenge.
 - Write this as a sales pitch or commercial to entice users to interact with your site or how you want investors to purchase your website.
@@ -76,15 +78,10 @@ Link to the project: https://mrwaelghandoura.github.io/css-html-first-project/
 ## Table of Contents:
 Generate after readme is complete for UX and below
 
-## UX
-
-### Project Goals
-Use this section to provide insight into your UX process, focusing on who this website is for, calling out demographics, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 ### Design Choices
-Your site is most likely geared to a certain audience, and your design choices should tie into them. Let the assessors know your thought process.
+This site targets all different ages that are in love with fishing and looking for adventures, soo i built a site with attractive images, easy access for all ages and provide show the activities the club does with the prices they offer .
 
-You may want to re-watch the videos about the [5 planes of UX development ](https://learn.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/22905698f3be425d918ebc64c87801b7/9c295bdc5a4048308460e262b14ab7df/) when writing up this section
 
 #### Colors
 
@@ -116,8 +113,17 @@ I used this image because it shows different ages of people that are fishing and
 
 #### Animations and Transitions
 
-- discuss any special animations or transitions you've included 
-- special hover state effects
+- Flex for small devices like mobiles 
+
+![image](https://user-images.githubusercontent.com/99558735/163035549-883e5483-62d7-473e-99e8-1949a86cce5d.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163035500-7bc7ce9d-ca64-4348-b5ea-337302c5eb42.png)
+
+
+- Table hover.
+
+![image](https://user-images.githubusercontent.com/99558735/163035967-d45b04a2-80a1-4eb9-a205-515398c569fe.png)
+
 
 ### Wireframes
 
@@ -139,9 +145,10 @@ Don't forget your 404 error page.
 
 #### Future Features
 
-Use this section to discuss plans for additional features to be implemented in the future:
+**In the future i will add a lot of features:**
+like booking a fishing guides with a schedule table shown all the date, time and ages that can join.
+Adding a feature of loaning fishing gears before they attempt to go to the trip so the users enjoy their trip with no stress of broken gear or unsutable equipment. 
 
-If you end up not developing some features you hoped to implement, you can include those in this section.
 
 
 ## Testing
@@ -181,38 +188,36 @@ Create a table that lists out what devices, browsers, and operating system you t
 
 For any scenarios that have not been automated, test the user stories/features manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios in markdown such as:
 
-**Manual Testing For Contact Form**
-1. Contact form:
-    1. Go to the "Contact Us" page
-    2. Try to submit the empty form and verify that an error message about the required fields appears
-    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
-    4. Try to submit the form with all inputs valid and verify that a success message appears.
 
-Or you can use mardown check boxes and write them up per feature:
 
 **Manual Testing For Contact Form**
-- [x] try to submit 
+
 - [x] Try to submit the empty form and verify that an error message about the required fields appears
+![image](https://user-images.githubusercontent.com/99558735/163025928-52013e13-8b41-4a2f-bc94-3aa268269bc2.png)
+
 - [x] Try to submit the form with an invalid email address and verify that a relevant error message appears
+![image](https://user-images.githubusercontent.com/99558735/163026009-4c04c68c-5ea0-410c-a8f3-5046229e2fdc.png)
+
 - [x] Try to submit the form with all inputs valid and verify that a success message appears.
+![image](https://user-images.githubusercontent.com/99558735/163026675-0066f839-585c-496b-84c2-ca142c41f9c0.png)
+
 - [x] no console errors
 - [x] submit goes to code institute data dump page in new tab
+ ![image](https://user-images.githubusercontent.com/99558735/163025714-b466afef-c2ee-4579-80ef-7f83b1c27601.png)
+
+ 
 - [x] looks good on mobile (one column)
+
+![image](https://user-images.githubusercontent.com/99558735/163026880-b311b22f-8298-4ee4-80b3-824513298c0b.png)
+
 - [x] looks good on tablet (two columns)
+![image](https://user-images.githubusercontent.com/99558735/163026961-599d828a-0095-4d1d-9e00-3c185656eb73.png)
+
 - [x] looks good on desktop (two columns but not SUPER HUGE)
+![image](https://user-images.githubusercontent.com/99558735/163027218-730f4d86-3647-4308-baf4-6691d4f04000.png)
 
-Or you can use a spreadsheet
-    
-Here is a [Manual Testing Template](https://docs.google.com/spreadsheets/d/1vc1IVL-ydQwWeWMqnk_GRox6HE6qxDLpchGse8Crayo/edit#gid=296578096) that you can use as a starting point to keep track of your testing efforts. Make a copy of it in your own account and update as needed to reflect the browsers you are testing and features.  
 
-It's ok to spot check specific functionality across devices and browsers but each page should be viewed as a whole for each device/browser combo at least once.
 
-A quick way to check if items are exceeding the screen width of a project is to run this javascript in the console for various screen emulations:
-
-```
-var docWidth = document.documentElement.offsetWidth;
-[].forEach.call(document.querySelectorAll('*'),function(el){if(el.offsetWidth > docWidth){console.log(el);}});
-```
 
 ### Defect Tracking
 
