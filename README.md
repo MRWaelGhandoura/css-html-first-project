@@ -265,18 +265,23 @@ Another way to accessibility test you site is to try to click on the browser and
 
 
 1- First step select your Repository 
+
 ![image](https://user-images.githubusercontent.com/99558735/163049544-8a1f135e-173b-4fa9-89c4-cc133560995c.png)
 
 2- Click on the settings icon 
+
 ![image](https://user-images.githubusercontent.com/99558735/163049662-5c7f1881-0d97-47b0-9b4a-5caf15a736d4.png)
 
 3- Then Click on pages
+
 ![image](https://user-images.githubusercontent.com/99558735/163049765-1eead15b-6f7b-41a2-add6-2ef4d0dc7d8d.png)
 
 4- Click on branch ,choose main and then save
-![image](https://user-images.githubusercontent.com/99558735/163049980-a3d4e562-0879-4c70-9037-c94fe6b7e0f3.png)
+
+![image](https://user-images.githubusercontent.com/99558735/163050322-d5a67af5-9cd2-42ea-b6c2-fcf2eb924a12.png)
 
 5- When a check green icon appears then your page is hosted
+
 ![image](https://user-images.githubusercontent.com/99558735/163050119-077dd2f1-7d19-4d2e-8dc2-ef1e99c46514.png)
 
 
