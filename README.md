@@ -293,15 +293,22 @@ Another way to accessibility test you site is to try to click on the browser and
 
 ## Credits
 
-To avoid plagiarism amd copyright infringement, you should mention any other projects, stackoverflow, videos, blogs, etc that you used to gather imagery or ideas for your code even if you used it as a starting point and modified things. Giving credit to other people's efforts and ideas that saved you time acknowledges the hard work others did. 
 
 ### Content
 
-Use bullet points to list out sites you copied text from and cross-reference where those show up on your site
+1- The code to make navigation adopted from: https://codepen.io/designify-me/pen/ZeLPee
+
+2- The code to make submit button style adopted from: https://www.w3schools.com/
+
+3- The code to make wrapper and grid was adopted from: https://www.w3schools.com/
+
+4- Assets are uploaded to : https://favicon.io/favicon-converter/
+
+5- Social media icons code adopted from: https://css-tricks.com/
 
 ### Media
 
-Make a list of sites you used images from. If you used several sites try to match up each image to the correct site. This includes attribution for icons if they came from font awesome or other sites, give them credit.
+Image was downloaded from: https://www.pexels.com/photo/three-people-on-a-wooden-fishing-docks-988622/
 
 ### Acknowledgments
 
