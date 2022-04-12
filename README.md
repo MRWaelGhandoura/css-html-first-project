@@ -10,7 +10,9 @@ Link to the project: https://mrwaelghandoura.github.io/css-html-first-project/
 **Wael Ghandoura**
 
 ## Project Overview
-- Include a picture of site that shows it in responsive states and links to deployed code: http://ami.responsivedesign.is/
+- Responsive states and linked to deployed code: http://ami.responsivedesign.is/
+![image](https://user-images.githubusercontent.com/99558735/163027766-768d9661-5532-47f4-811b-84ce4b526122.png)
+
 - The website users will be able to find all the information they need about fishing tours, prices, seasonal tournaments and meetings.
 - The website targets all people that are willing to learn fishing and pro anglers that are looking for a challenge.
 - Write this as a sales pitch or commercial to entice users to interact with your site or how you want investors to purchase your website.
@@ -200,6 +202,7 @@ For any scenarios that have not been automated, test the user stories/features m
 
  
 - [x] looks good on mobile (one column)
+
 ![image](https://user-images.githubusercontent.com/99558735/163026880-b311b22f-8298-4ee4-80b3-824513298c0b.png)
 
 - [x] looks good on tablet (two columns)
