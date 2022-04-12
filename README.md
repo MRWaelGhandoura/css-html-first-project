@@ -114,10 +114,14 @@ I used this image because it shows different ages of people that are fishing and
 #### Animations and Transitions
 
 - Flex for small devices like mobiles 
-![image](https://user-images.githubusercontent.com/99558735/163035500-7bc7ce9d-ca64-4348-b5ea-337302c5eb42.png)
+
 ![image](https://user-images.githubusercontent.com/99558735/163035549-883e5483-62d7-473e-99e8-1949a86cce5d.png)
 
+![image](https://user-images.githubusercontent.com/99558735/163035500-7bc7ce9d-ca64-4348-b5ea-337302c5eb42.png)
+
+
 - Table hover.
+
 ![image](https://user-images.githubusercontent.com/99558735/163035967-d45b04a2-80a1-4eb9-a205-515398c569fe.png)
 
 
