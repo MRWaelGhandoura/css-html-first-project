@@ -40,6 +40,37 @@ Wael Ghandoura
 ![image](https://user-images.githubusercontent.com/99558735/162927775-fa19c92d-b69e-441c-bd7b-d4551c4c3cd4.png)
 
 
+#### The About Us Section
+
+![image](https://user-images.githubusercontent.com/99558735/162929608-35ac6ce1-3e6d-45ec-a0ee-1ba40754a0ab.png)
+
+* It gives the user information about what the club offers with a table with times and ages.
+
+![image](https://user-images.githubusercontent.com/99558735/162930129-1a260b58-915a-429a-8c02-c197b078201e.png)
+
+* It clearly shows that the site targets almost all ages in the meetings.
+
+#### Sign Up Form
+
+* The sign up section has a form to collect details from all the people that are willing to join the club.
+* It also collects the name and email address.
+* We added a section inside the form for childrens name ,and parents/guardians name and their email address.
+* It allows the user to signup to join the fishing club.
+* Above the Form there is a price with an offer for joining the club.
+
+![image](https://user-images.githubusercontent.com/99558735/162932029-632d527f-cbe0-4ed8-b7c4-54c996de3297.png)
+
+
+#### The Contact Us Section
+* The contact us section allows the users to contact the clubs phone number, email address and street address location.
+
+![image](https://user-images.githubusercontent.com/99558735/162932176-1228d71f-a740-4b3a-90fa-f6188fc4879f.png)
+
+* It also contain a social media icon which navigate the user to the social media sites
+
+![image](https://user-images.githubusercontent.com/99558735/162932561-fc1ecaad-77fc-4541-8b5c-56760947f7a3.png)
+
+
 
 ## Table of Contents
 Generate after readme is complete for UX and below
